@@ -24,7 +24,7 @@
 ---
 
 <div style="text-align: center;">
-    <img src="figures/1.jpg" alt="Cover Image" style="width: 100%; max-width: 600px;"/>
+    <img src="figures/1.png" alt="Cover Image" style="width: 100%; max-width: 600px;"/>
 </div>
 
 ---
